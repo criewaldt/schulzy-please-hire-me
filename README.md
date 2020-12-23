@@ -1,4 +1,4 @@
 # Schulzy Please Hire Me
-### A one page bootstrap website for Schulzy
+### A full stack, one page bootstrap website for Schulzy
 
 Built with: Node, Express, Bootstrap on Heroku.
